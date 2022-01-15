@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    height: 131px;
+    align-items: center;
+}
+
+.phone{
+    display: flex;
+}
+
+img{
+    display: block;
+    margin-right: 2px;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.search {
+    width: 200px;
+    height: 36px;
+    border-radius: 15px;
+    padding: 0 5px;
+}
