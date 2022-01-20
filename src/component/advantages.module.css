@@ -1,0 +1,7 @@
+.advantages {
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15px;
+}
