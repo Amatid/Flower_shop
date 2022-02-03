@@ -5,6 +5,7 @@ import './styles/App.css'
 import Navbar from './component/navbar';
 import Advantages from './component/advantages';
 import Special from './component/special';
+import Products from './component/products';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Advantages></Advantages>
       <hr></hr>
       <Special></Special>
+      <Products></Products>
     </div>
   );
 }

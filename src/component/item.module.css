@@ -1,0 +1,24 @@
+.item {
+    width: 225px;    
+    margin-top: 35px;
+}
+
+.item img {
+    display: block;
+}
+
+.item div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.item>div>button {
+    display: block;
+    padding: 8px 17px;
+    border-radius: 18px;
+}
+
+.item>div {
+    display: flex;
+    align-items: center;
+}
